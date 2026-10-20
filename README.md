@@ -4,7 +4,6 @@
 **PUC-SP · Ciência da Computação · Inteligência Artificial**
 Atividade do LAB da aula *AI ML Random Forest*
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/SEU-REPOSITORIO/blob/main/PUCSP_IA_ML_RandomForest_Atividade.ipynb)
 
 ## Dupla
 
